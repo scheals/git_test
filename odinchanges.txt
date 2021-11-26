@@ -1,0 +1,3 @@
+In Foundations/Git Basics when you clone the repo you get asked
+whether you trust the authors of the files - what do?
+git-basics.png in Pictures
