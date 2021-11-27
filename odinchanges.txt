@@ -1,3 +1,6 @@
 In Foundations/Git Basics when you clone the repo you get asked
 whether you trust the authors of the files - what do?
 git-basics.png in Pictures
+In Foundations/HTML Boilerplate the video from the Assignment
+was just repeating what was in the text, didn't seem like I needed it
+Should we upload or copy-paste our HTML code into the HTML Validator?
