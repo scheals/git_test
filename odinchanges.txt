@@ -8,3 +8,4 @@ In Foundations/CSS Foundations Excercise 6 it is possible to fix the .child casc
 but the solution doesn't reflect that.
 In Foundations/Inspecting HTML and CSS it is weird that suddenly Google Chrome is the main focus given Firefox being used previously and being the default
 browser for Xubuntu. Instructions are also unclear: what am I supposed to do @Page Inspector page?
+In Foundations/Alignment, specifically flex-layout-2 exercise please hint at having 300px width for cards.
